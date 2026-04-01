@@ -1,16 +1,14 @@
 ## Hi there 👋
+Bonjour, je suis LATTARD Fanny.
 
-<!--
-**Fannyltd/Fannyltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 A propos de moi
+🔭 Je suis étudiant en Economie de l'entreprise et des marché dans le master parcours Big data, Analyse et Business Intelligence.
 
-Here are some ideas to get you started:
+Mon objectif ici est de construire des projects utiles et apprendre chaque jour.
+### ⚡ Technologies :
+- Langages : Python, R, SQL
+- Outils : Git, VS Code, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Me contacter :
+- Email : lattardfanny@gmail.com
+- LinkedIn : https://www.linkedin.com/in/fanny-lattard
