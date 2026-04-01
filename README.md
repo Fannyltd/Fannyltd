@@ -9,7 +9,7 @@ Mon objectif ici est de construire des projects utiles que vous pourrez voir sur
 
 ### ⚡ Technologies :
 - Langages : Python, R, SQL
-- Outils : Git, VS Code, Power BI
+- Outils : Git, VS Code, Power BI, Claude.
 
 ### 📫 Me contacter :
 - Email : lattardfanny@gmail.com
