@@ -15,5 +15,5 @@ Mon objectif ici est de construire des projects utiles que vous pourrez voir sur
 - Email : lattardfanny@gmail.com
 - LinkedIn : https://www.linkedin.com/in/fanny-lattard
 
-### Centre d'interêt : 
+### 🌟 Centre d'interêt : 
 - Lecture, Apiculture, Mode, Art, Gaming, Animaux et Course à pieds.
