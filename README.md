@@ -16,4 +16,4 @@ Mon objectif ici est de construire des projects utiles que vous pourrez voir sur
 - LinkedIn : https://www.linkedin.com/in/fanny-lattard
 
 ### Centre d'interêt : 
-- Lecture, Apiculture, Mode, Gaming, Animaux et Course à pieds.
+- Lecture, Apiculture, Mode, Art, Gaming, Animaux et Course à pieds.
