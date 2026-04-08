@@ -11,9 +11,10 @@ Mon objectif ici est de construire des projects utiles que vous pourrez voir sur
 - Langages : Python, R, SQL
 - Outils : Git, VS Code, Power BI, Claude.
 
-### 📫 Me contacter :
-- Email : lattardfanny@gmail.com
-- LinkedIn : https://www.linkedin.com/in/fanny-lattard
-
 ### 🌟 Centre d'interêt : 
 - Lecture, Apiculture, Mode, Art, Gaming, Animaux et Course à pieds.
+
+### Langues : 
+- Français
+- Anglais C1
+- Allemand A2/B1
