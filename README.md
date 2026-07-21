@@ -5,7 +5,7 @@
 ### 🌱 A propos de moi
 🔭 Je suis étudiante en **Économie de l'entreprise et des marchés** (Master Big Data, Analyse et Business Intelligence) à la **Sorbonne Paris Nord**. 
 
-> 🎯 **Objectif 2027 :** Je recherche un stage de **5 mois** en **Business Analysis** ou **Data Science** (France ou Étranger) dès **février 2027**.
+> 🎯 **Objectif 2027 :** Je recherche un stage de **3 à 6 mois** en **Business Analysis** ou **Data Science** (France ou Étranger) dès **mars 2027**.
 
 Mon but ? Transformer les données brutes en décisions intelligentes et construire des projets concrets que vous retrouverez ici.
 
@@ -28,10 +28,13 @@ Mon but ? Transformer les données brutes en décisions intelligentes et constru
 - **Apiculture :** Fascinée par l'organisation des données de la nature.
 - **Gaming & Running :** Pour la stratégie et l'endurance.
 
-### 🌍 Langues
+### 🌍 Langues :
 - 🇫🇷 **Français :** Natif
 - 🇬🇧 **Anglais :** C1 (Advanced)
-- 🇩🇪 **Allemand :** A2/B1 (Intermediate)
 
-  ### 📫 Me contacter
+### Autres certifications : 
+- LVMH Insiders (juin 2026)
+- Global infrastructure Anti-Corruption Center : Formation sur la lutte contre la corruption (juillet 2027).
+
+### 📫 Me contacter
 [<img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" />](https://github.com/Fannyltd)
