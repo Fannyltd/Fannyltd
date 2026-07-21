@@ -32,7 +32,7 @@ Mon but ? Transformer les données brutes en décisions intelligentes et constru
 - 🇫🇷 **Français :** Natif
 - 🇬🇧 **Anglais :** C1 (Advanced)
 
-### Autres certifications : 
+### 📖 Autres certifications : 
 - LVMH Insiders (juin 2026)
 - Global infrastructure Anti-Corruption Center : Formation sur la lutte contre la corruption (juillet 2027).
 
