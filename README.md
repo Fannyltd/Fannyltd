@@ -34,7 +34,7 @@ Mon but ? Transformer les données brutes en décisions intelligentes et constru
 
 ### 📖 Autres certifications : 
 - LVMH Insiders (juin 2026)
-- Global infrastructure Anti-Corruption Center : Formation sur la lutte contre la corruption (juillet 2027).
+- Global infrastructure Anti-Corruption Center : Formation sur la lutte contre la corruption (juillet 2026).
 
 ### 📫 Me contacter
 [<img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" />](https://github.com/Fannyltd)
